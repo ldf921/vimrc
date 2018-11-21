@@ -16,7 +16,7 @@ I would, of course, recommend using the awesome version.
 ### Install for your own user only
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following from your terminal:
 
-	git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+	git clone --depth=1 https://github.com/ldf921/vimrc.git ~/.vim_runtime
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 	
 ### Install for multiple users
@@ -42,10 +42,10 @@ Some other fonts that Awesome will try to use:
 
 The basic version is just one file and no plugins. Just copy [basic.vim](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) and paste it into your vimrc.
 
-The basic version is useful to install on remote servers where you don't need many plugins, and you don't do many edits.
+The basic version is useful to install on remote servers where you don't need many plugins, and you don't do many edits.aw
 
-	git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
-	sh ~/.vim_runtime/install_basic_vimrc.sh
+	git clone --depth=1 https://github.com/ldf921/vimrc.git ~/.vim_runtime
+	sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 
 ## How to install on Windows?
